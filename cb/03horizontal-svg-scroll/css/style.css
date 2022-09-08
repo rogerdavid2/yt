@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "harmond";
+    src: url("../Harmond-SemiBoldCondensed.otf") format("OpenType");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "harmond", serif;
+}
